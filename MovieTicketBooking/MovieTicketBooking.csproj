@@ -48,6 +48,7 @@
     <Compile Include="Screen.cs" />
     <Compile Include="Show.cs" />
     <Compile Include="Theatre.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
